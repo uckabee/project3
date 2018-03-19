@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+ body{
+     font-family: 'Open Sans Condensed', sans-serif;background-color: #eae5e3!important;
+    }
+ .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    color:black!important;
+    text-align: center;
+    position: fixed;
+    padding: 0%!important;
+  }
+  .navbar-brand {
+      background-color: #d32e28;
+      color: white!important;
+      text-align: center;
+  }
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+  
+.topImage img {
+  width: 100%;
+}
